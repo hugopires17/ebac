@@ -40,5 +40,3 @@ while True:
     if continuar.lower() != 's':
         print("Encerrando o programa.")
         break
-
-semsaber = 2
