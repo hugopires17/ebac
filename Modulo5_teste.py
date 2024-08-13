@@ -41,3 +41,4 @@ while True:
         print("Encerrando o programa.")
         break
 
+semsaber = 2
